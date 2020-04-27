@@ -1,11 +1,13 @@
 # firstGame
 #This is my first python code still a work in progress
 #Chose your own adventure game March 2020
+
 import random
 import sys
 sys.exit
 
 def start():
+
     print('WELCOME TO THIS GAME!')
 
     print('You must be at least six years old to play.')
