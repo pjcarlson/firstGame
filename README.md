@@ -3,7 +3,9 @@
 #Chose your own adventure game March 2020
 
 import random
+
 import sys
+
 sys.exit
 
 def start():
